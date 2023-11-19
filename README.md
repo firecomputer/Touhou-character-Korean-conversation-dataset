@@ -5,6 +5,14 @@ I am glad to present this dataset to you.
 With this, we could fine-tune the basic knowledge of Touhou Project.
 There are total 1300+ QA with 101 available characters and 21 primary characters.
 
+What's the differnce of primary and available characters?
+-------
+
+Primary characters are made up of 20 characters 
+that are in Top 20 in Touhou wiki popularity vote + Yakumo Ran
+Primary characters has 20 (special qestions) + 9(universal questions)
+but available characters except for primary has only 9 universal QA.
+
 This is the list of primary characters:
 -------------
 
