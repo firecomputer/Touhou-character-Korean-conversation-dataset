@@ -4,7 +4,7 @@
 <img src="/Images/Touhou_logo.png" width="600px" height="300px" title="Touhou Project Logo" alt="Touhou Project Logo"></img><br/>
 
 I am glad to present this dataset to you. 
-With this, we could fine-tune the basic knowledge of Touhou Project.
+With this, we could fine-tune the llm the basic knowledge of Touhou Project.
 There are total 1300+ QA with 101 available characters and 21 primary characters.
 
 What's the differnce of primary and available characters?
