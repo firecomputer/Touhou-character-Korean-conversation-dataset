@@ -7,7 +7,7 @@ I am glad to present this dataset to you.
 With this, we could fine-tune the llm the basic knowledge of Touhou Project.
 There are total 1300+ QA with 101 available characters and 21 primary characters.
 
-[Download Dataset as Jsonl format](v1/Touhou_data.jsonl)
+<a id="raw-url" href="https://raw.githubusercontent.com/firecomputer/Touhou-character-Korean-conversation-dataset/main/v1/Touhou_data.jsonl" download>Download Dataset in jsonl format</a>
 
 What's the differnce of primary and available characters?
 -------
